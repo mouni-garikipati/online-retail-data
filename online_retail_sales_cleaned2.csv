@@ -1,0 +1,201 @@
+Order_ID,Date,Customer_ID,Country,Product,Category,Quantity,Price_per_Unit,Payment_Method,Total_Sale
+1001,2025-07-27,C058,Canada,Pen,Stationery,2,20,PayPal,40
+1002,2025-07-03,C094,India,Jeans,Clothing,5,1200,PayPal,6000
+1003,2025-07-23,C081,Australia,Laptop Bag,Bags,2,1500,Debit Card,3000
+1004,2025-07-20,C001,UK,Laptop Bag,Bags,4,1500,Debit Card,6000
+1005,2025-07-02,C007,Canada,Sneakers,Footwear,2,3000,UPI,6000
+1006,2025-07-05,C093,India,Pen,Stationery,4,20,Debit Card,80
+1007,2025-07-14,C026,India,Jeans,Clothing,1,1200,UPI,1200
+1008,2025-07-30,C002,Canada,Headphones,Electronics,1,2000,Credit Card,2000
+1009,2025-07-15,C020,Canada,Headphones,Electronics,4,2000,PayPal,8000
+1010,2025-07-22,C076,India,Laptop Bag,Bags,3,1500,UPI,4500
+1011,2025-07-10,C080,Canada,Pen,Stationery,2,20,UPI,40
+1012,2025-07-03,C010,Canada,Power Bank,Electronics,4,1500,UPI,6000
+1013,2025-07-30,C028,Canada,Pen,Stationery,2,20,UPI,40
+1014,2025-07-26,C083,Canada,Sneakers,Footwear,3,3000,Credit Card,9000
+1015,2025-07-05,C012,UK,Laptop Bag,Bags,4,1500,UPI,6000
+1016,2025-07-01,C082,Australia,Backpack,Bags,5,1800,Credit Card,9000
+1017,2025-07-19,C024,Canada,Pen,Stationery,4,20,Debit Card,80
+1018,2025-07-16,C082,USA,Power Bank,Electronics,2,1500,UPI,3000
+1019,2025-07-02,C096,Australia,Jeans,Clothing,2,1200,UPI,2400
+1020,2025-07-02,C074,UK,Sneakers,Footwear,2,3000,Debit Card,6000
+1021,2025-07-14,C087,Canada,T-Shirt,Clothing,2,500,UPI,1000
+1022,2025-07-18,C046,Canada,Pen,Stationery,4,20,Credit Card,80
+1023,2025-07-10,C097,UK,T-Shirt,Clothing,3,500,Credit Card,1500
+1024,2025-07-26,C014,UK,Headphones,Electronics,2,2000,Credit Card,4000
+1025,2025-07-21,C053,Canada,Backpack,Bags,4,1800,PayPal,7200
+1026,2025-07-31,C092,UK,Sneakers,Footwear,1,3000,UPI,3000
+1027,2025-07-24,C039,Australia,Backpack,Bags,1,1800,UPI,1800
+1028,2025-07-21,C034,Australia,Backpack,Bags,2,1800,Debit Card,3600
+1029,2025-07-26,C035,USA,Jeans,Clothing,3,1200,UPI,3600
+1030,2025-07-01,C086,India,Sneakers,Footwear,2,3000,Debit Card,6000
+1031,2025-07-24,C017,UK,Power Bank,Electronics,5,1500,Credit Card,7500
+1032,2025-07-22,C045,UK,Laptop Bag,Bags,5,1500,UPI,7500
+1033,2025-07-23,C002,India,Pen,Stationery,3,20,Credit Card,60
+1034,2025-07-16,C095,Canada,T-Shirt,Clothing,2,500,UPI,1000
+1035,2025-07-22,C091,UK,Sunglasses,Accessories,5,800,PayPal,4000
+1036,2025-07-28,C096,India,Sunglasses,Accessories,5,800,PayPal,4000
+1037,2025-07-06,C018,Australia,Power Bank,Electronics,1,1500,UPI,1500
+1038,2025-07-07,C021,India,Sunglasses,Accessories,5,800,PayPal,4000
+1039,2025-07-30,C032,UK,Sneakers,Footwear,5,3000,Debit Card,15000
+1040,2025-07-02,C072,India,T-Shirt,Clothing,5,500,PayPal,2500
+1041,2025-07-21,C002,USA,T-Shirt,Clothing,1,500,Credit Card,500
+1042,2025-07-12,C060,Canada,Power Bank,Electronics,2,1500,UPI,3000
+1043,2025-07-03,C055,Canada,Sunglasses,Accessories,1,800,Debit Card,800
+1044,2025-07-09,C029,USA,Headphones,Electronics,1,2000,UPI,2000
+1045,2025-07-03,C095,USA,Laptop Bag,Bags,3,1500,UPI,4500
+1046,2025-07-27,C034,UK,Notebook,Stationery,1,50,UPI,50
+1047,2025-07-10,C096,Australia,Pen,Stationery,1,20,UPI,20
+1048,2025-07-06,C093,UK,Sneakers,Footwear,2,3000,PayPal,6000
+1049,2025-07-23,C089,USA,T-Shirt,Clothing,3,500,Credit Card,1500
+1050,2025-07-17,C060,Canada,Sunglasses,Accessories,2,800,PayPal,1600
+1051,2025-07-20,C045,Australia,Sneakers,Footwear,2,3000,PayPal,6000
+1052,2025-07-01,C093,USA,Sneakers,Footwear,3,3000,Credit Card,9000
+1053,2025-07-28,C008,Canada,Notebook,Stationery,5,50,PayPal,250
+1054,2025-07-01,C014,India,T-Shirt,Clothing,4,500,Credit Card,2000
+1055,2025-07-08,C095,Canada,Headphones,Electronics,2,2000,Credit Card,4000
+1056,2025-07-17,C061,UK,Jeans,Clothing,3,1200,PayPal,3600
+1057,2025-07-28,C033,Australia,Sunglasses,Accessories,3,800,Credit Card,2400
+1058,2025-07-22,C070,Canada,Laptop Bag,Bags,2,1500,Debit Card,3000
+1059,2025-07-02,C023,Canada,Backpack,Bags,4,1800,Debit Card,7200
+1060,2025-07-01,C093,India,Backpack,Bags,5,1800,PayPal,9000
+1061,2025-07-31,C019,Canada,Notebook,Stationery,5,50,UPI,250
+1062,2025-07-19,C040,USA,Notebook,Stationery,4,50,Credit Card,200
+1063,2025-07-17,C032,USA,T-Shirt,Clothing,2,500,UPI,1000
+1064,2025-07-25,C052,UK,Notebook,Stationery,3,50,Debit Card,150
+1065,2025-07-14,C023,UK,T-Shirt,Clothing,1,500,UPI,500
+1066,2025-07-07,C045,India,Laptop Bag,Bags,5,1500,UPI,7500
+1067,2025-07-21,C039,Australia,Notebook,Stationery,3,50,UPI,150
+1068,2025-07-18,C043,USA,Notebook,Stationery,2,50,Credit Card,100
+1069,2025-07-05,C021,Canada,Headphones,Electronics,3,2000,UPI,6000
+1070,2025-07-28,C049,Canada,Laptop Bag,Bags,1,1500,Debit Card,1500
+1071,2025-07-05,C095,USA,T-Shirt,Clothing,4,500,Debit Card,2000
+1072,2025-07-31,C081,India,Power Bank,Electronics,5,1500,Debit Card,7500
+1073,2025-07-11,C024,India,Backpack,Bags,5,1800,Debit Card,9000
+1074,2025-07-13,C033,India,Headphones,Electronics,1,2000,UPI,2000
+1075,2025-07-21,C091,Canada,Power Bank,Electronics,1,1500,PayPal,1500
+1076,2025-07-20,C027,Canada,Notebook,Stationery,2,50,Credit Card,100
+1077,2025-07-12,C090,Australia,Notebook,Stationery,4,50,PayPal,200
+1078,2025-07-24,C088,India,T-Shirt,Clothing,5,500,Credit Card,2500
+1079,2025-07-04,C004,USA,Notebook,Stationery,2,50,PayPal,100
+1080,2025-07-21,C002,USA,Pen,Stationery,3,20,Credit Card,60
+1081,2025-07-27,C015,UK,Sneakers,Footwear,4,3000,Credit Card,12000
+1082,2025-07-16,C038,India,T-Shirt,Clothing,2,500,Debit Card,1000
+1083,2025-07-15,C070,India,Jeans,Clothing,2,1200,Credit Card,2400
+1084,2025-07-17,C069,India,Laptop Bag,Bags,4,1500,Credit Card,6000
+1085,2025-07-31,C056,Canada,Notebook,Stationery,5,50,PayPal,250
+1086,2025-07-13,C060,India,Jeans,Clothing,4,1200,Credit Card,4800
+1087,2025-07-12,C020,UK,Notebook,Stationery,3,50,PayPal,150
+1088,2025-07-22,C041,India,Sunglasses,Accessories,4,800,PayPal,3200
+1089,2025-07-09,C008,Canada,Headphones,Electronics,5,2000,Debit Card,10000
+1090,2025-07-26,C006,Australia,Backpack,Bags,3,1800,Debit Card,5400
+1091,2025-07-17,C020,USA,Jeans,Clothing,1,1200,Credit Card,1200
+1092,2025-07-14,C002,Australia,Sunglasses,Accessories,1,800,PayPal,800
+1093,2025-07-24,C013,Canada,T-Shirt,Clothing,2,500,UPI,1000
+1094,2025-07-06,C096,Australia,T-Shirt,Clothing,3,500,UPI,1500
+1095,2025-07-04,C062,Canada,T-Shirt,Clothing,2,500,UPI,1000
+1096,2025-07-29,C005,USA,Laptop Bag,Bags,5,1500,UPI,7500
+1097,2025-07-01,C094,Canada,Sneakers,Footwear,3,3000,PayPal,9000
+1098,2025-07-03,C025,India,Jeans,Clothing,2,1200,Credit Card,2400
+1099,2025-07-28,C053,UK,T-Shirt,Clothing,4,500,Debit Card,2000
+1100,2025-07-09,C079,USA,Power Bank,Electronics,3,1500,PayPal,4500
+1101,2025-07-19,C045,Australia,Backpack,Bags,3,1800,PayPal,5400
+1102,2025-07-17,C086,Australia,Notebook,Stationery,4,50,PayPal,200
+1103,2025-07-29,C091,Canada,Backpack,Bags,4,1800,Credit Card,7200
+1104,2025-07-04,C097,USA,Sunglasses,Accessories,3,800,Credit Card,2400
+1105,2025-07-29,C009,India,Laptop Bag,Bags,3,1500,PayPal,4500
+1106,2025-07-08,C100,UK,Sneakers,Footwear,4,3000,Credit Card,12000
+1107,2025-07-27,C060,USA,Pen,Stationery,4,20,Debit Card,80
+1108,2025-07-19,C016,Australia,Sneakers,Footwear,4,3000,Debit Card,12000
+1109,2025-07-24,C094,Canada,Headphones,Electronics,5,2000,Debit Card,10000
+1110,2025-07-13,C048,India,Power Bank,Electronics,1,1500,Debit Card,1500
+1111,2025-07-26,C080,Canada,Jeans,Clothing,3,1200,UPI,3600
+1112,2025-07-28,C094,Canada,Notebook,Stationery,2,50,PayPal,100
+1113,2025-07-10,C010,UK,Sneakers,Footwear,2,3000,Debit Card,6000
+1114,2025-07-30,C076,India,Jeans,Clothing,4,1200,UPI,4800
+1115,2025-07-24,C009,India,Pen,Stationery,1,20,Credit Card,20
+1116,2025-07-16,C071,USA,Sunglasses,Accessories,2,800,UPI,1600
+1117,2025-07-14,C089,Australia,Sunglasses,Accessories,2,800,Credit Card,1600
+1118,2025-07-22,C085,Canada,Jeans,Clothing,1,1200,UPI,1200
+1119,2025-07-21,C007,UK,Laptop Bag,Bags,1,1500,PayPal,1500
+1120,2025-07-01,C095,Canada,Sunglasses,Accessories,1,800,PayPal,800
+1121,2025-07-17,C010,UK,Power Bank,Electronics,3,1500,Credit Card,4500
+1122,2025-07-05,C018,UK,Laptop Bag,Bags,5,1500,UPI,7500
+1123,2025-07-11,C014,India,Sneakers,Footwear,4,3000,Debit Card,12000
+1124,2025-07-14,C030,Canada,Laptop Bag,Bags,5,1500,Debit Card,7500
+1125,2025-07-17,C001,Australia,Power Bank,Electronics,1,1500,UPI,1500
+1126,2025-07-15,C058,India,Pen,Stationery,3,20,PayPal,60
+1127,2025-07-03,C069,Australia,Sneakers,Footwear,5,3000,UPI,15000
+1128,2025-07-22,C083,UK,Power Bank,Electronics,3,1500,Debit Card,4500
+1129,2025-07-29,C085,USA,Jeans,Clothing,3,1200,PayPal,3600
+1130,2025-07-21,C026,USA,Pen,Stationery,4,20,Credit Card,80
+1131,2025-07-29,C001,Canada,Laptop Bag,Bags,5,1500,UPI,7500
+1132,2025-07-16,C076,UK,Sunglasses,Accessories,5,800,Debit Card,4000
+1133,2025-07-02,C012,UK,Headphones,Electronics,1,2000,PayPal,2000
+1134,2025-07-17,C075,Canada,Laptop Bag,Bags,3,1500,UPI,4500
+1135,2025-07-01,C060,India,Jeans,Clothing,3,1200,PayPal,3600
+1136,2025-07-03,C056,Canada,Pen,Stationery,1,20,Credit Card,20
+1137,2025-07-03,C052,India,Headphones,Electronics,3,2000,Credit Card,6000
+1138,2025-07-12,C052,Australia,Backpack,Bags,2,1800,Credit Card,3600
+1139,2025-07-22,C081,India,Sneakers,Footwear,5,3000,Debit Card,15000
+1140,2025-07-16,C080,Australia,T-Shirt,Clothing,3,500,Credit Card,1500
+1141,2025-07-01,C050,Australia,Power Bank,Electronics,2,1500,Debit Card,3000
+1142,2025-07-24,C043,Australia,Power Bank,Electronics,4,1500,Debit Card,6000
+1143,2025-07-14,C019,Canada,Jeans,Clothing,4,1200,Credit Card,4800
+1144,2025-07-10,C020,Canada,Jeans,Clothing,1,1200,PayPal,1200
+1145,2025-07-10,C008,Australia,Headphones,Electronics,2,2000,Credit Card,4000
+1146,2025-07-17,C020,Canada,Sunglasses,Accessories,5,800,UPI,4000
+1147,2025-07-28,C078,USA,Headphones,Electronics,2,2000,PayPal,4000
+1148,2025-07-19,C016,USA,Laptop Bag,Bags,2,1500,PayPal,3000
+1149,2025-07-15,C061,India,Sunglasses,Accessories,1,800,Credit Card,800
+1150,2025-07-07,C030,UK,Sneakers,Footwear,5,3000,Debit Card,15000
+1151,2025-07-21,C080,Australia,Power Bank,Electronics,2,1500,Debit Card,3000
+1152,2025-07-06,C030,UK,Jeans,Clothing,4,1200,UPI,4800
+1153,2025-07-18,C031,USA,Headphones,Electronics,1,2000,UPI,2000
+1154,2025-07-06,C098,India,Sneakers,Footwear,2,3000,PayPal,6000
+1155,2025-07-12,C006,Australia,Sunglasses,Accessories,2,800,UPI,1600
+1156,2025-07-15,C086,USA,Notebook,Stationery,1,50,Debit Card,50
+1157,2025-07-30,C082,UK,Jeans,Clothing,1,1200,Credit Card,1200
+1158,2025-07-25,C066,USA,Notebook,Stationery,1,50,UPI,50
+1159,2025-07-30,C003,Australia,Sunglasses,Accessories,2,800,Debit Card,1600
+1160,2025-07-07,C072,UK,Power Bank,Electronics,2,1500,Debit Card,3000
+1161,2025-07-15,C009,USA,Laptop Bag,Bags,4,1500,Credit Card,6000
+1162,2025-07-07,C020,Canada,Headphones,Electronics,3,2000,UPI,6000
+1163,2025-07-15,C088,Australia,Backpack,Bags,2,1800,Credit Card,3600
+1164,2025-07-04,C066,India,Sneakers,Footwear,3,3000,UPI,9000
+1165,2025-07-12,C013,USA,T-Shirt,Clothing,4,500,Credit Card,2000
+1166,2025-07-16,C002,Australia,T-Shirt,Clothing,1,500,UPI,500
+1167,2025-07-26,C039,Canada,Headphones,Electronics,5,2000,Debit Card,10000
+1168,2025-07-26,C079,India,Laptop Bag,Bags,2,1500,Credit Card,3000
+1169,2025-07-24,C041,Australia,Headphones,Electronics,1,2000,Debit Card,2000
+1170,2025-07-12,C064,Canada,Backpack,Bags,2,1800,Credit Card,3600
+1171,2025-07-15,C077,India,Backpack,Bags,2,1800,Credit Card,3600
+1172,2025-07-19,C017,Australia,Backpack,Bags,3,1800,PayPal,5400
+1173,2025-07-11,C028,India,Sneakers,Footwear,2,3000,UPI,6000
+1174,2025-07-24,C039,UK,T-Shirt,Clothing,5,500,UPI,2500
+1175,2025-07-23,C071,India,Notebook,Stationery,5,50,Debit Card,250
+1176,2025-07-31,C060,Australia,T-Shirt,Clothing,5,500,Debit Card,2500
+1177,2025-07-15,C034,Australia,Headphones,Electronics,1,2000,Debit Card,2000
+1178,2025-07-18,C039,India,Jeans,Clothing,5,1200,Debit Card,6000
+1179,2025-07-30,C045,Canada,Jeans,Clothing,1,1200,Credit Card,1200
+1180,2025-07-06,C089,Canada,Backpack,Bags,5,1800,UPI,9000
+1181,2025-07-29,C095,India,Laptop Bag,Bags,3,1500,Debit Card,4500
+1182,2025-07-26,C043,USA,Headphones,Electronics,1,2000,Credit Card,2000
+1183,2025-07-26,C030,Australia,Jeans,Clothing,4,1200,PayPal,4800
+1184,2025-07-14,C015,Canada,Power Bank,Electronics,3,1500,PayPal,4500
+1185,2025-07-13,C093,India,Sneakers,Footwear,5,3000,PayPal,15000
+1186,2025-07-08,C042,Australia,Jeans,Clothing,2,1200,UPI,2400
+1187,2025-07-26,C091,India,Laptop Bag,Bags,5,1500,Credit Card,7500
+1188,2025-07-08,C060,Australia,Notebook,Stationery,2,50,UPI,100
+1189,2025-07-16,C036,India,Power Bank,Electronics,4,1500,Debit Card,6000
+1190,2025-07-18,C032,India,Pen,Stationery,4,20,Debit Card,80
+1191,2025-07-06,C029,Canada,Laptop Bag,Bags,3,1500,UPI,4500
+1192,2025-07-03,C008,USA,Sunglasses,Accessories,3,800,Debit Card,2400
+1193,2025-07-12,C078,India,Sneakers,Footwear,5,3000,UPI,15000
+1194,2025-07-31,C007,Australia,Notebook,Stationery,3,50,Credit Card,150
+1195,2025-07-08,C047,USA,Sunglasses,Accessories,2,800,Credit Card,1600
+1196,2025-07-28,C050,Canada,T-Shirt,Clothing,1,500,Debit Card,500
+1197,2025-07-04,C006,UK,Laptop Bag,Bags,1,1500,UPI,1500
+1198,2025-07-16,C081,USA,Laptop Bag,Bags,5,1500,Debit Card,7500
+1199,2025-07-01,C018,India,Laptop Bag,Bags,5,1500,PayPal,7500
+1200,2025-07-20,C072,UK,Notebook,Stationery,3,50,Credit Card,150
